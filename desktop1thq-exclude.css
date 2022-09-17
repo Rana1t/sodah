@@ -1,0 +1,620 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.warp-all {
+    width: 85%;
+    background: #999;
+    height: auto;
+    margin: auto;
+}
+
+.site-header {
+    width: 100%;
+    height: 60px;
+    background: #03C;
+    margin-bottom: 30px;
+}
+
+
+/* خلفية صفحة الويب */
+
+.desktop1thq-exclude-desktop1thq-exclude {
+    width: 100%;
+    height: 3072px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    max-width: 100%;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 0px 0px 0px 0px;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+
+/* حدود  صفحة الويب  */
+
+.desktop1thq-exclude-rectangle15 {
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    box-sizing: border-box;
+    border-style: solid;
+    border-width: 0px;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+
+
+/* صورة الشعار  */
+
+.desktop1thq-exclude-rectangle2 {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: transparent;
+    margin-right: auto;
+    margin-bottom: 0;
+}
+
+
+/* من نحن */
+
+.desktop1thq-exclude-text {
+    top: 440px;
+    left: 580px;
+    color: rgba(121, 41, 54, 1);
+    width: 140px;
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Neonderthaw;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+
+
+/* زخرفة من نحن */
+
+.desktop1thq-exclude-rectangle20 {
+    top: 480px;
+    left: 545px;
+    width: 100px height: 55px;
+    position: absolute;
+    border-color: transparent;
+}
+
+
+/* صورة المطعم */
+
+.desktop1thq-exclude-rectangle8 {
+    top: 650px;
+    left: 185px;
+    width: 343px;
+    height: 250px;
+    position: absolute;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    box-sizing: border-box;
+    border-color: transparent;
+    margin-right: 0;
+    border-radius: 58px;
+    margin-bottom: 0;
+}
+
+
+/* نبذة تعريفية عن المطعم */
+
+.desktop1thq-exclude-text02 {
+    top: 660px;
+    left: 650px;
+    color: rgba(108, 16, 31, 1);
+    width: 500px;
+    height: auto;
+    position: absolute;
+    font-size: 36px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Neonderthaw;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+    width: 500px;
+    height: 190px;
+    position: absolute;
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 20px;
+}
+
+
+/*زخرفة اكلاتنا */
+
+.desktop1thq-exclude-group1 {
+    top: 988px;
+    left: 597px;
+    width: 196.4054412841797px;
+    height: 107.87020874023438px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+}
+
+
+/* كلمة اكلاتنا */
+
+.desktop1thq-exclude-text04 {
+    left: 28.050785064697266px;
+    color: rgba(108, 16, 31, 1);
+    width: 134px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Neonderthaw;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+
+/* المسافة بين الزخرفة واكلاتنا*/
+
+.desktop1thq-exclude-rectangle10 {
+    top: 56px;
+    left: 0px;
+    width: 196px;
+    height: 52px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: transparent;
+}
+
+
+/* زخرفة تحت موقعنا  */
+
+.desktop1thq-exclude-group2 {
+    top: 2353px;
+    left: 525px;
+    width: 391px;
+    height: 135px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+}
+
+
+/* كلمة موقعنا */
+
+.desktop1thq-exclude-text06 {
+    color: rgba(108, 16, 31, 1);
+    width: 270px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: right;
+    font-family: Neonderthaw;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: underline;
+}
+
+
+/* زخرفة تحت موقعنا */
+
+.desktop1thq-exclude-rectangle101 {
+    right: 0px;
+    width: 334px;
+    bottom: 9px;
+    height: 72px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: transparent;
+}
+
+
+/* شعار التويتر*/
+
+.desktop1thq-exclude-logostwitter {
+    top: 2940px;
+    left: 770px;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: transparent;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+
+
+/* شعار الانستا */
+
+.desktop1thq-exclude-rectangle18 {
+    top: 2940px;
+    left: 654px;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: transparent;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+
+
+/* صورة الخريطة */
+
+.desktop1thq-exclude-rectangle19 {
+    left: 383px;
+    width: 715px;
+    bottom: 176px;
+    height: 379px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: transparent;
+    box-shadow: 0 4px 8px 0 rgba(101, 99, 98, 0.2), 0 6px 20px 0 rgba(91, 59, 59, 0.19);
+    margin-right: 0;
+    border-radius: 10px;
+    margin-bottom: 0;
+}
+
+
+/* قروب بوكس اكلاتنا */
+
+.desktop1thq-exclude-group3 {
+    top: 1172px;
+    left: 197px;
+    width: 1000.65087890625px;
+    height: 1150px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+}
+
+
+/*  بوكس دجاج شوايه */
+
+.desktop1thq-exclude-rectangle21 {
+    top: 697.6766967773438px;
+    left: 0px;
+    width: 1001px;
+    height: 196px;
+    position: absolute;
+    box-sizing: border-box;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-color: rgb(241, 240, 240);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+}
+
+
+/*  بوكس برمة ارز */
+
+.desktop1thq-exclude-rectangle25 {
+    top: 953.5667114257812px;
+    left: 0px;
+    width: 1001px;
+    height: 196px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: rgb(241, 240, 240);
+    border-style: solid;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-width: 1px;
+    border-radius: 20px;
+}
+
+
+/*  بوكس السليق الطائفي */
+
+.desktop1thq-exclude-rectangle22 {
+    top: 0px;
+    left: 0px;
+    width: 1001px;
+    height: 196px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: rgb(241, 240, 240);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+}
+
+
+/* بوكس المضغوط */
+
+.desktop1thq-exclude-rectangle23 {
+    top: 460.6021423339844px;
+    left: 0px;
+    width: 1001px;
+    height: 196px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: rgb(241, 240, 240);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+}
+
+
+/* بوكس حنيذ السودة */
+
+.desktop1thq-exclude-rectangle24 {
+    top: 227.29055786132812px;
+    left: 0px;
+    width: 1001px;
+    height: 196px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: rgb(241, 240, 240);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+}
+
+
+/* صور السليق الطائفي */
+
+.desktop1thq-exclude-rectangle11 {
+    top: 1193.830810546875px;
+    left: 883.80712890625px;
+    width: 281px;
+    height: 153px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: transparent;
+    margin-right: 0;
+    border-radius: 58px;
+    margin-bottom: 0;
+}
+
+
+/* صورة دجاج شواية */
+
+.desktop1thq-exclude-rectangle12 {
+    top: 1899.19287109375px;
+    left: 886.8443603515625px;
+    width: 281px;
+    height: 153px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: transparent;
+    margin-right: 0;
+    border-radius: 58px;
+    margin-bottom: 0;
+}
+
+
+/*صورة المضغوط */
+
+.desktop1thq-exclude-rectangle13 {
+    top: 1656.795166015625px;
+    left: 883.80712890625px;
+    width: 281px;
+    height: 153px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: transparent;
+    margin-right: 0;
+    border-radius: 58px;
+    margin-bottom: 0;
+}
+
+
+/* صورة حنيذ السودة */
+
+.desktop1thq-exclude-rectangle14 {
+    top: 1429.453369140625px;
+    left: 883.80712890625px;
+    width: 281px;
+    height: 153px;
+    position: absolute;
+    box-sizing: border-box;
+    border-color: transparent;
+    margin-right: 0;
+    border-radius: 58px;
+    margin-bottom: 0;
+}
+
+
+/* صورة برمة الرز  */
+
+.desktop1thq-exclude-rectangle17 {
+    top: 2147.61279296875px;
+    left: 886.8443603515625px;
+    width: 281px;
+    height: 153px;
+    position: absolute;
+    box-sizing: border-box;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+
+
+/* كلمة المضغوط */
+
+.desktop1thq-exclude-text08 {
+    top: 1707px;
+    left: 582px;
+    color: rgba(108, 16, 31, 1);
+    width: 211px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: right;
+    font-family: Neonderthaw;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+
+
+/* كلمة حنيذ السودة */
+
+.desktop1thq-exclude-text10 {
+    top: 1473.867919921875px;
+    left: 587.1742553710938px;
+    color: rgba(121, 41, 54, 1);
+    width: 218px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: right;
+    font-family: Neonderthaw;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+
+
+/* كلمة السليق الطائفي */
+
+.desktop1thq-exclude-text12 {
+    top: 1247.2786865234375px;
+    left: 541.6162719726562px;
+    color: rgba(121, 41, 54, 1);
+    width: 263px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: right;
+    font-family: Neonderthaw;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+
+
+/* كلمة دجاج شواية  */
+
+.desktop1thq-exclude-text14 {
+    top: 1944.360107421875px;
+    left: 559.8394775390625px;
+    color: rgba(108, 16, 31, 1);
+    width: 245px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: right;
+    font-family: Neonderthaw;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+
+
+/* كلمة برمة ارز */
+
+.desktop1thq-exclude-text16 {
+    top: 2186.7578125px;
+    left: 683.3521118164062px;
+    color: rgba(108, 16, 31, 1);
+    width: 121px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: right;
+    font-family: Neonderthaw;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+}
+
+@media (min-width: 280px) and (max-width: 1024px) {
+    body {
+        min-height: 145vh;
+        width: 145%;
+    }
+}
